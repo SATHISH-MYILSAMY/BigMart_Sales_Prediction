@@ -35,5 +35,3 @@ Model training – XGBoost, LightGBM, CatBoost trained in 5‑fold OOF fashion.
 Stacking – Ridge regression on OOF outputs.
 
 Prediction & submission – blend predictions across folds to produce final CSV.
-
-Do you want me to also add a flow diagram image for this pipeline so the README has visuals for GitHub? That would make it more attractive.
