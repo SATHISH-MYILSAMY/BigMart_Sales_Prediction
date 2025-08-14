@@ -1,4 +1,5 @@
-Big Mart Sales Prediction – Stacking Ensemble
+## Big Mart Sales Prediction – Stacking Ensemble
+-------------------------------------------------
 📌 Overview
 This repository contains a complete machine learning pipeline for predicting Item Outlet Sales for the Big Mart Sales Prediction challenge.
 The solution combines thorough data cleaning, advanced feature engineering, and a 5‑fold Out‑of‑Fold stacking ensemble with XGBoost, LightGBM, and CatBoost base learners blended by a Ridge regression meta‑model.
